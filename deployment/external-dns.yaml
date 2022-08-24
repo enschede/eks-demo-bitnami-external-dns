@@ -34,6 +34,3 @@ spec:
     interval: 30s
     logLevel: info
     policy: sync
-    serviceAccount:
-      create: false
-      name: bitnami-external-dns-controller
