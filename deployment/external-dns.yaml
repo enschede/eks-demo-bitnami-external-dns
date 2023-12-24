@@ -43,3 +43,4 @@ spec:
     serviceAccount:
       create: false
       name: bitnami-external-dns-controller
+    replicaCount: 1
