@@ -37,7 +37,7 @@ spec:
     keepHistory: false
   values:
     provider: aws
-    interval: 30s
+    interval: 10s
     logLevel: info
     policy: sync
     serviceAccount:
